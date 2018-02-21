@@ -14,7 +14,7 @@
 2. Start Anaconda (this is the default way but you can make it easier later)
     - Goto Start
     - Search and run `Anaconda Prompt`
-    - You should have a CMD window with "(base)" written in the prompt
+    - You should have a CMD window with "(base)" written in the prompt, *ignore the λ symbol, you will not see it!*
     <img src="pics/install-pytorch-windows/console1.png" width="400" /><br>
 3. If step 2 is fine then installation went ok, now install [pytorch](https://github.com/peterjc123/pytorch-scripts)
     - Run `conda create -n test python=3.6 numpy pyyaml mkl` on **same prompt as step 2**
