@@ -27,5 +27,6 @@
     - Run `pip --version` and make sure it shows "Miniconda3" somewhere in the dir path.
     <img src="pics/install-pytorch-windows/console2.png" width="500" /><br>
     - Now run `pip install matplotlib pandas` and other stuff
-    - Download the scripts from `in-too-deep` repo either using git or zip
+    - Download the scripts from [in-too-deep](https://github.com/ML-Society/In-Too-Deep-Learning) repo either using git or zip
     - Run python `Week 0 - Intro to PyTorch and Linear Regression.py`
+    - Profit! ... but seriously if you have a GPU use Linux!
