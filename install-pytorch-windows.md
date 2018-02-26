@@ -20,7 +20,7 @@
     - Run `conda create -n test python=3.6 numpy pyyaml mkl` on **same prompt as step 2**
     - Above might take a while especially mkl, be patient
     - After all done, run `conda activate test`
-    - Run `conda install -c peterjc123 pytorch`
+    - Run `conda install -c peterjc123 pytorch-cpu` *(this is cpu only version for gpu version, check [pytorch website](https://github.com/peterjc123/pytorch-scripts))*
 4. Now test your installation
     - Make sure you are using same prompt as 3.
     - You should have a CMD window with "(test)" written in the prompt, if not run `conda activate test`.
