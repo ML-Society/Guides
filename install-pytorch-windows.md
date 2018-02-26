@@ -7,8 +7,8 @@
     - Change Dest Folder to `C:\Users\YOUR_USERNAME\AppData\Roaming\MiniConda3\` (not req but better)<br>
     <img src="pics/install-pytorch-windows/conda-install1.png" width="400" /> <br>
     - For **advanced options**:
-        - if you **do not** have any other python version installed on your system, **select both checkboxes**
-        - if you already have another python installed, **don't select any checkbox**.
+        - if you **do not** have any other python version installed on your system, **select both checkboxes**.
+        - if you already have another python installed, **don't select any checkbox**. If you don't mind working with conda in future, it is best suggested you uninstall your normal python installation and and then install conda.
         <img src="pics/install-pytorch-windows/conda-install2.png" width="400" /><br>
     - Install
 2. Start Anaconda (this is the default way but you can make it easier later)
