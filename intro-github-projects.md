@@ -26,11 +26,11 @@ This section is meant for anyone getting started with GitHub projects.
 <img src="pics/intro-github-projects/5.png" width="400" /> <br>
 
 - You can use your normal markdown styles in GitHub cards, to add lists with checkbox placeholders use `[ ]` as shown below.
-<img src="pics/intro-github-projects/7.png" width="400" /> <br>
+<img src="pics/intro-github-projects/6.png" width="400" /> <br>
 
 - It is a good idea to not clutter the board with many cards, if what you want to add is relevant to an existing card, simply use the elipses menu (`...`) on the card to edit it.
 
 - A card can be moved to different columns depending on its status by simple drag-and-drop!
 
 - The project's progress breakdown is available in the top-left corner
-<img src="pics/intro-github-projects/8.png" width="400" /> <br>
+<img src="pics/intro-github-projects/7.png" width="400" /> <br>
